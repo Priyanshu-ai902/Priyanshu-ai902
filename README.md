@@ -21,6 +21,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-ai902&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-ai902&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/7ccaad58-534c-4cd0-88de-460f6e495ece" />
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Priyanshu-ai902&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
