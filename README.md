@@ -24,7 +24,6 @@
 🎃 Hacktoberfest 2023 Participation and Contribution Badges 🏆
 
 <img width="665" alt="image" src="https://github.com/user-attachments/assets/7ccaad58-534c-4cd0-88de-460f6e495ece" />
-[![An image of @psjcoder161972's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/psjcoder161972)](https://holopin.io/@psjcoder161972)
 
 
 ### 🔝 Top Contributed Repo
