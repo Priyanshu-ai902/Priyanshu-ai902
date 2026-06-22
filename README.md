@@ -19,7 +19,7 @@ My name is **Priyanshu Jha (psjcoder)**
 ### Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-jha-2993b1290/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PRIYANSHUJ21838)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PRIYANSHUJ21832)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/psjcoder0717)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=vercel&logoColor=white)](https://priyanshu-portfolio-lac.vercel.app/)
 
