@@ -14,6 +14,8 @@ My name is **Priyanshu Jha (psjcoder)**
 
 -> Open to collaborating on AI, Full-Stack, and DevOps projects
 
+-> Resume :-  https://drive.google.com/file/d/1zfsCSNURHmIp9WNvILRyUSB_15UJoAY3/view
+
 ---
 
 ### Socials
